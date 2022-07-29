@@ -1,13 +1,13 @@
 # Sonic Azure Concept
 If only Sonic was open-source
 
-# Mechanics
+# Mechanics/Engine
 
 ### Modern Sonic:
 - Basic movement mechanics: Generations
 - Specific mechanics:
   - Boost from Generations (and with the Generations boost texture, not the cringe Forces one)
-  - **Working** Dropdash from Lost World
+  - Grinding from Generations
 - Textures: Forces
 - Voicelines: Mix of the best from multiple games
 
@@ -20,3 +20,52 @@ If only Sonic was open-source
 - Textures: Forces
 - Voicelines: :trollface:
 
+### Overall Engine Properties:
+- Lighting: Custom lighting based on Forces
+
+
+
+
+# Stages
+
+### First Era (1-6)
+
+##### Green Hill Zone
+
+##### Chemical Plant Zone
+
+##### Studiopolis Zone
+
+##### Metallic Madness
+
+##### Flying Battery Zone
+
+##### Sky Sanctuary Zone
+
+
+### Second Era (7-12)
+
+##### Emerald Coast
+
+##### Speed Highway
+
+##### City Escape
+
+##### Seaside Hill
+
+##### 
+
+
+### Third Era (13-18)
+
+##### White Acropolis
+
+##### Crisis City
+
+##### Windmill Isle
+
+##### Rooftop Run
+
+##### Planet Wisp
+
+##### Sunset Heights
